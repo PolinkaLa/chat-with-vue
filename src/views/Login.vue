@@ -12,6 +12,7 @@
         <b-col lg="4" md="3"></b-col>
         <b-col lg="4" md="6">
           <LoginForm />
+          <p>You can use tests users: <b><em>polina</em></b>, <b><em>lusy</em></b> or <b><em>john</em></b></p>
         </b-col>
         <b-col lg="4" md="3"></b-col>
       </b-row>
